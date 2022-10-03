@@ -5,7 +5,7 @@ public class Test2 {
 		// TODO Auto-generated method stub
 		
 		String hungry="yes";
-		if (hungry == "yes")
+		if (hungry == "yes" || hungry == "y" || hungry == "Y")
 		{
 			System.out.println("eat something");
 		}
